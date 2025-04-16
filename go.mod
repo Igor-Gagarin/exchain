@@ -1,4 +1,4 @@
-module github.com/igor-gagarin/exchain
+module github.com/igor-gagarin/exchain v1.6.4
 
 go 1.20
 
